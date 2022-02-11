@@ -1,0 +1,49 @@
+
+body{
+    background: black;
+  }
+  .todo{
+    background: white;
+    width: 350px;
+    height: 400px;
+    margin: auto;
+  }
+  .head_post{
+    display:flex;
+  }
+  .icono-dot{
+    margin: 8px 10px 5px 230px;
+  }
+  .icono-ht{
+    margin: 8px 10px 5px 10px;
+  }
+  h6{
+      margin:5px 0px 0px 0px;
+  }
+  .letra_logo{
+    font-size: 15px;
+    margin: 0px 0px 10px 0px;
+  }
+  img{
+    width: 350px;
+  }
+  .emotion_post{
+    display: flex;
+  }
+  .save{
+    margin:0px 0px 0px 270px;
+  }
+  .plane{
+      margin:0px 0px 0px 5px;
+  }
+  .comment{
+      margin:0px 0px 0px 10px;
+  }
+  .reaccion{
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .historia{
+    font-size: 12px;
+  }
+  
